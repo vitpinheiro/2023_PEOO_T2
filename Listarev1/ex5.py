@@ -4,7 +4,7 @@ mes=''
 trimestre=''
 
 if n==1:
- print(" o mês de janeiro é do primeiro trimestre do ano")
+ print(" o mês de janeiro é do primeiro trimestre do ano ")
 elif n==2:
    print(" o mês de fevereiro é do primeiro trimestre do ano")
 elif n==3:

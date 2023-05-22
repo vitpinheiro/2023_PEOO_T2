@@ -1,4 +1,4 @@
-run = "python3 './Listarev1/listarev1ex5.py'"
+run = "python3 './Listarev1/ex1.py'"
 
 [nix]
 channel = "stable-22_11"
